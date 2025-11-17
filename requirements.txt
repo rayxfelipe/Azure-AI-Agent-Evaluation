@@ -1,0 +1,5 @@
+
+# Pin your SDK/runtime and eval libs here
+pydantic>=2.0
+jsonlines>=4.0
+# Placeholder for Azure AI Foundry/Evaluation SDK imports
