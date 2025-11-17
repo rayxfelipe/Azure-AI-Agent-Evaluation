@@ -1,0 +1,3 @@
+{"question": "What permits are required to add a deck to a single-family home?", "context": "City building code v1.0 (synthetic)", "expected": "Homeowner needs residential building permit and inspection schedule."}
+{"question": "How do I request police incident data for research?", "context": "Open data portal (synthetic)", "expected": "Submit a public records request; PII removed; CSV download available."}
+{"question": "Which vaccines are required for K-12 enrollment?", "context": "County health policy (synthetic)", "expected": "MMR, DTaP, Varicella per 2025 guidance; medical exemptions allowed."}
