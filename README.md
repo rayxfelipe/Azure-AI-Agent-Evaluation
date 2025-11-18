@@ -45,7 +45,7 @@ src/
 
 ## Test Change
 
-This is a sample update
+This is a sample update.
 
 ## License
 
